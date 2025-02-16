@@ -20,4 +20,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
   * e2
   * e3
  
-  ![Github logo] (https://cdn-icons-png.flaticon.com/512/2175/2175188.png)
+  ![Github logo](https://cdn-icons-png.flaticon.com/512/2175/2175188.png)
